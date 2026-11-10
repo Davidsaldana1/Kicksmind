@@ -27,3 +27,5 @@ Primera versión funcional de KicksMind, un sistema de reconocimiento y clasific
 6. Ejecutar `KicksMind.exe`.
 
 <img width="104" height="26" alt="image" src="https://github.com/user-attachments/assets/f9878cf8-c8e3-415a-b8f8-47b5e4cae223" />
+
+DESCARGA EL EJECUTABLE AQUI:  sha256:c5dd20b2b6add4da35400dc03aa8ad312324b6971136c766cc0a67ee5f671a52
