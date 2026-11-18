@@ -1,0 +1,152 @@
+﻿imagen;ruta_imagen;categoria_real;prediccion;correcta;particion;puntuacion_modelo_pct;preprocesamiento
+foto_003.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_003.jpg;Adidas_Campus;Adidas_Samba;NO;5;68.6;Fondo uniforme: objeto aislado
+foto_014.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_014.jpg;Adidas_Campus;Adidas_Samba;NO;1;70.1;Fondo uniforme: objeto aislado
+foto_020.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_020.jpg;Adidas_Campus;Jordan_4;NO;3;33.4;Foto completa: sin recorte del objeto
+foto_021.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_021.jpg;Adidas_Campus;Adidas_Samba;NO;3;58.4;Fondo uniforme: objeto aislado
+foto_022.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_022.jpg;Adidas_Campus;Adidas_Samba;NO;1;48.9;Fondo uniforme: objeto aislado
+foto_024.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_024.jpg;Adidas_Campus;Jordan_4;NO;2;35.2;Fondo complejo: objeto aislado con GrabCut
+foto_025.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_025.jpg;Adidas_Campus;Jordan_4;NO;4;28.0;Fondo uniforme: objeto aislado
+foto_026.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_026.jpg;Adidas_Campus;Air_force_one;NO;3;31.5;Fondo uniforme: objeto aislado
+foto_029.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_029.jpg;Adidas_Campus;Adidas_Samba;NO;2;65.0;Fondo uniforme: objeto aislado
+foto_031.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_031.jpg;Adidas_Campus;Adidas_Samba;NO;4;48.1;Fondo uniforme: objeto aislado
+foto_033.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_033.jpg;Adidas_Campus;Jordan_4;NO;3;26.0;Fondo uniforme: objeto aislado
+foto_034.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_034.jpg;Adidas_Campus;Jordan_4;NO;1;29.1;Fondo uniforme: objeto aislado
+foto_035.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_035.jpg;Adidas_Campus;Jordan_4;NO;3;37.4;Fondo complejo: objeto aislado con GrabCut
+foto_039.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_039.jpg;Adidas_Campus;Adidas_Samba;NO;3;60.7;Fondo complejo: objeto aislado con GrabCut
+foto_042.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_042.jpg;Adidas_Campus;Jordan_1;NO;5;34.5;Fondo uniforme suave: objeto aislado
+foto_045.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_045.jpg;Adidas_Campus;Air_force_one;NO;5;62.0;Fondo uniforme: objeto aislado
+foto_052.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_052.jpg;Adidas_Campus;Jordan_4;NO;1;26.0;Fondo uniforme: objeto aislado
+foto_054.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_054.jpg;Adidas_Campus;Adidas_Samba;NO;3;28.9;Fondo uniforme: objeto aislado
+foto_055.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_055.jpg;Adidas_Campus;Jordan_4;NO;5;31.5;Fondo uniforme: objeto aislado
+foto_056.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_056.jpg;Adidas_Campus;Air_force_one;NO;4;51.7;Fondo uniforme: objeto aislado
+foto_058.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_058.jpg;Adidas_Campus;Jordan_4;NO;3;53.5;Fondo uniforme: objeto aislado
+foto_060.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_060.jpg;Adidas_Campus;Adidas_Samba;NO;1;48.5;Fondo uniforme: objeto aislado
+foto_061.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_061.jpg;Adidas_Campus;Jordan_1;NO;2;41.2;Fondo complejo: objeto aislado con GrabCut
+foto_063.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\foto_063.jpg;Adidas_Campus;Adidas_Samba;NO;5;55.9;Fondo uniforme: objeto aislado
+images (1).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (1).jpg;Adidas_Campus;Jordan_4;NO;3;59.4;Fondo complejo: objeto aislado con GrabCut
+images (15).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (15).jpg;Adidas_Campus;Jordan_4;NO;5;35.2;Fondo uniforme: objeto aislado
+images (16).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (16).jpg;Adidas_Campus;Adidas_Samba;NO;4;50.8;Fondo complejo: objeto aislado con GrabCut
+images (17).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (17).jpg;Adidas_Campus;Jordan_4;NO;4;27.1;Fondo complejo: objeto aislado con GrabCut
+images (18).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (18).jpg;Adidas_Campus;Jordan_4;NO;1;45.5;Fondo complejo: objeto aislado con GrabCut
+images (19).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (19).jpg;Adidas_Campus;Adidas_Samba;NO;5;28.0;Fondo complejo: objeto aislado con GrabCut
+images (2).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (2).jpg;Adidas_Campus;Adidas_Samba;NO;3;51.8;Fondo uniforme: objeto aislado
+images (21).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (21).jpg;Adidas_Campus;Adidas_Samba;NO;5;67.1;Fondo complejo: objeto aislado con GrabCut
+images (27).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (27).jpg;Adidas_Campus;Jordan_4;NO;1;37.8;Fondo complejo: objeto aislado con GrabCut
+images (29).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (29).jpg;Adidas_Campus;Jordan_4;NO;4;28.5;Fondo complejo: objeto aislado con GrabCut
+images (31).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (31).jpg;Adidas_Campus;Jordan_4;NO;4;28.5;Fondo complejo: objeto aislado con GrabCut
+images (32).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (32).jpg;Adidas_Campus;Jordan_4;NO;3;51.9;Fondo complejo: objeto aislado con GrabCut
+images (35).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (35).jpg;Adidas_Campus;Jordan_4;NO;4;27.2;Fondo complejo: objeto aislado con GrabCut
+images (4).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (4).jpg;Adidas_Campus;Jordan_4;NO;2;29.3;Fondo complejo: objeto aislado con GrabCut
+images (7).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (7).jpg;Adidas_Campus;Jordan_4;NO;5;43.8;Fondo complejo: objeto aislado con GrabCut
+images (9).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images (9).jpg;Adidas_Campus;Adidas_Samba;NO;3;69.9;Fondo uniforme: objeto aislado
+images.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Campus\images.jpg;Adidas_Campus;Jordan_4;NO;3;33.4;Foto completa: sin recorte del objeto
+foto_023.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_023.jpg;Adidas_Samba;Adidas_Campus;NO;2;36.3;Fondo complejo: objeto aislado con GrabCut
+foto_025.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_025.jpg;Adidas_Samba;Jordan_4;NO;5;41.9;Fondo uniforme: objeto aislado
+foto_027.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_027.jpg;Adidas_Samba;Jordan_4;NO;5;34.0;Fondo uniforme: objeto aislado
+foto_031.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_031.jpg;Adidas_Samba;Jordan_4;NO;5;42.9;Fondo complejo: objeto aislado con GrabCut
+foto_033.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_033.jpg;Adidas_Samba;Jordan_4;NO;4;34.9;Fondo complejo: objeto aislado con GrabCut
+foto_037.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_037.jpg;Adidas_Samba;Adidas_Campus;NO;5;74.2;Fondo complejo: objeto aislado con GrabCut
+foto_039.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_039.jpg;Adidas_Samba;Adidas_Campus;NO;3;33.4;Fondo complejo: objeto aislado con GrabCut
+foto_046.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_046.jpg;Adidas_Samba;Jordan_4;NO;2;38.9;Fondo uniforme: objeto aislado
+foto_047.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_047.jpg;Adidas_Samba;Jordan_4;NO;1;39.7;Fondo complejo: objeto aislado con GrabCut
+foto_049.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_049.jpg;Adidas_Samba;Adidas_Campus;NO;3;77.3;Fondo complejo: objeto aislado con GrabCut
+foto_050.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_050.jpg;Adidas_Samba;Adidas_Campus;NO;2;48.1;Fondo uniforme: objeto aislado
+foto_054.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_054.jpg;Adidas_Samba;Jordan_4;NO;1;31.3;Fondo complejo: objeto aislado con GrabCut
+foto_056.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\foto_056.jpg;Adidas_Samba;Adidas_Campus;NO;5;53.6;Fondo uniforme: objeto aislado
+images (11).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (11).jpg;Adidas_Samba;Jordan_4;NO;1;31.3;Fondo complejo: objeto aislado con GrabCut
+images (16).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (16).jpg;Adidas_Samba;Jordan_4;NO;3;33.4;Fondo complejo: objeto aislado con GrabCut
+images (18).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (18).jpg;Adidas_Samba;Jordan_4;NO;4;34.7;Foto completa: sin recorte del objeto
+images (19).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (19).jpg;Adidas_Samba;Jordan_4;NO;5;37.8;Fondo complejo: objeto aislado con GrabCut
+images (21).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (21).jpg;Adidas_Samba;Adidas_Campus;NO;2;47.3;Fondo uniforme: objeto aislado
+images (22).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (22).jpg;Adidas_Samba;Adidas_Campus;NO;3;31.6;Fondo complejo: objeto aislado con GrabCut
+images (25).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (25).jpg;Adidas_Samba;Jordan_4;NO;4;34.7;Fondo uniforme: objeto aislado
+images (26).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (26).jpg;Adidas_Samba;Jordan_4;NO;4;33.3;Fondo complejo: objeto aislado con GrabCut
+images (28).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (28).jpg;Adidas_Samba;Jordan_4;NO;5;38.4;Fondo complejo: objeto aislado con GrabCut
+images (29).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (29).jpg;Adidas_Samba;Jordan_4;NO;5;45.5;Fondo complejo: objeto aislado con GrabCut
+images (3).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (3).jpg;Adidas_Samba;Jordan_4;NO;1;27.2;Fondo complejo: objeto aislado con GrabCut
+images (32).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (32).jpg;Adidas_Samba;Air_force_one;NO;1;37.8;Fondo complejo: objeto aislado con GrabCut
+images (36).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (36).jpg;Adidas_Samba;Jordan_4;NO;5;40.3;Fondo complejo: objeto aislado con GrabCut
+images (37).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (37).jpg;Adidas_Samba;Jordan_4;NO;3;41.2;Fondo complejo: objeto aislado con GrabCut
+images (5).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (5).jpg;Adidas_Samba;Jordan_4;NO;1;32.1;Foto completa: sin recorte del objeto
+images (8).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (8).jpg;Adidas_Samba;Adidas_Campus;NO;2;27.8;Fondo uniforme: objeto aislado
+images (9).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Adidas_Samba\images (9).jpg;Adidas_Samba;Adidas_Campus;NO;3;56.1;Fondo complejo: objeto aislado con GrabCut
+foto_005.webp;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_005.webp;Air_force_one;Jordan_4;NO;4;34.7;Fondo uniforme: objeto aislado
+foto_008.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_008.jpg;Air_force_one;Adidas_Campus;NO;2;34.3;Fondo complejo: objeto aislado con GrabCut
+foto_009.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_009.jpg;Air_force_one;Adidas_Campus;NO;2;27.4;Fondo complejo: objeto aislado con GrabCut
+foto_011.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_011.jpg;Air_force_one;Jordan_4;NO;1;47.5;Fondo complejo: objeto aislado con GrabCut
+foto_013.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_013.jpg;Air_force_one;Adidas_Campus;NO;5;79.5;Fondo uniforme: objeto aislado
+foto_018.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_018.jpg;Air_force_one;Jordan_4;NO;3;31.9;Fondo complejo: objeto aislado con GrabCut
+foto_027.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_027.jpg;Air_force_one;Adidas_Samba;NO;1;58.9;Fondo uniforme: objeto aislado
+foto_030.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_030.jpg;Air_force_one;Jordan_4;NO;4;42.8;Fondo complejo: objeto aislado con GrabCut
+foto_031.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_031.jpg;Air_force_one;Jordan_4;NO;2;39.3;Foto completa: sin recorte del objeto
+foto_033.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_033.jpg;Air_force_one;Adidas_Campus;NO;1;40.4;Fondo uniforme: objeto aislado
+foto_034.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_034.jpg;Air_force_one;Jordan_4;NO;4;41.3;Fondo complejo: objeto aislado con GrabCut
+foto_037.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_037.jpg;Air_force_one;Jordan_4;NO;3;36.6;Fondo complejo: objeto aislado con GrabCut
+foto_038.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_038.jpg;Air_force_one;Jordan_1;NO;5;48.9;Fondo complejo: objeto aislado con GrabCut
+foto_039.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_039.jpg;Air_force_one;Adidas_Campus;NO;2;40.3;Fondo uniforme: objeto aislado
+foto_040.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_040.jpg;Air_force_one;Jordan_4;NO;1;30.5;Fondo complejo: objeto aislado con GrabCut
+foto_047.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\foto_047.jpg;Air_force_one;Jordan_4;NO;4;52.2;Fondo complejo: objeto aislado con GrabCut
+fotof1.jpeg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\fotof1.jpeg;Air_force_one;Adidas_Campus;NO;2;33.5;Fondo complejo: objeto aislado con GrabCut
+fotof2.jpeg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\fotof2.jpeg;Air_force_one;Jordan_4;NO;5;61.1;Fondo complejo: objeto aislado con GrabCut
+images (1).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (1).jpg;Air_force_one;Jordan_4;NO;2;36.6;Fondo complejo: objeto aislado con GrabCut
+images (11).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (11).jpg;Air_force_one;Adidas_Campus;NO;2;22.7;Fondo uniforme: objeto aislado
+images (16).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (16).jpg;Air_force_one;Jordan_1;NO;5;48.1;Fondo complejo: objeto aislado con GrabCut
+images (20).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (20).jpg;Air_force_one;Adidas_Samba;NO;4;49.5;Fondo complejo: objeto aislado con GrabCut
+images (25).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (25).jpg;Air_force_one;Jordan_4;NO;3;33.4;Fondo complejo: objeto aislado con GrabCut
+images (26).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (26).jpg;Air_force_one;Jordan_4;NO;5;35.1;Fondo complejo: objeto aislado con GrabCut
+images (29).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (29).jpg;Air_force_one;Jordan_4;NO;4;34.7;Foto completa: sin recorte del objeto
+images (3).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (3).jpg;Air_force_one;Adidas_Campus;NO;1;41.5;Fondo complejo: objeto aislado con GrabCut
+images (31).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (31).jpg;Air_force_one;Jordan_4;NO;5;33.6;Fondo complejo: objeto aislado con GrabCut
+images (33).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (33).jpg;Air_force_one;Adidas_Samba;NO;4;48.1;Fondo uniforme: objeto aislado
+images (37).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (37).jpg;Air_force_one;Jordan_4;NO;3;33.5;Fondo complejo: objeto aislado con GrabCut
+images (7).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (7).jpg;Air_force_one;Jordan_4;NO;5;55.4;Fondo uniforme: objeto aislado
+images (8).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (8).jpg;Air_force_one;Jordan_4;NO;4;29.4;Fondo uniforme: objeto aislado
+images (9).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images (9).jpg;Air_force_one;Jordan_4;NO;5;31.4;Fondo complejo: objeto aislado con GrabCut
+images.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Air_force_one\images.jpg;Air_force_one;Jordan_4;NO;3;65.7;Fondo complejo: objeto aislado con GrabCut
+foto_021.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_021.jpg;Jordan_1;Jordan_4;NO;4;34.7;Foto completa: sin recorte del objeto
+foto_023.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_023.jpg;Jordan_1;Jordan_4;NO;3;33.4;Foto completa: sin recorte del objeto
+foto_028.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_028.jpg;Jordan_1;Jordan_4;NO;4;34.7;Foto completa: sin recorte del objeto
+foto_034.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_034.jpg;Jordan_1;Jordan_4;NO;4;35.3;Fondo complejo: objeto aislado con GrabCut
+foto_036.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_036.jpg;Jordan_1;Jordan_4;NO;3;33.6;Fondo complejo: objeto aislado con GrabCut
+foto_040.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_040.jpg;Jordan_1;Air_force_one;NO;4;42.4;Fondo uniforme: objeto aislado
+foto_041.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_041.jpg;Jordan_1;Adidas_Samba;NO;1;60.7;Fondo uniforme: objeto aislado
+foto_044.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_044.jpg;Jordan_1;Jordan_4;NO;4;49.1;Fondo complejo: objeto aislado con GrabCut
+foto_045.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_045.jpg;Jordan_1;Jordan_4;NO;4;30.0;Fondo uniforme: objeto aislado
+foto_046.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_046.jpg;Jordan_1;Jordan_4;NO;2;35.7;Fondo uniforme: objeto aislado
+foto_057.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_057.jpg;Jordan_1;Jordan_4;NO;4;30.4;Fondo uniforme: objeto aislado
+foto_069.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_069.jpg;Jordan_1;Jordan_4;NO;1;38.6;Fondo complejo: objeto aislado con GrabCut
+foto_070.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_070.jpg;Jordan_1;Jordan_4;NO;3;28.3;Fondo complejo: objeto aislado con GrabCut
+foto_071.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\foto_071.jpg;Jordan_1;Jordan_4;NO;4;30.3;Fondo uniforme: objeto aislado
+images (1).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (1).jpg;Jordan_1;Air_force_one;NO;5;30.0;Fondo complejo: objeto aislado con GrabCut
+images (11).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (11).jpg;Jordan_1;Adidas_Campus;NO;4;32.7;Fondo complejo: objeto aislado con GrabCut
+images (13).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (13).jpg;Jordan_1;Jordan_4;NO;2;31.6;Fondo uniforme: objeto aislado
+images (14).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (14).jpg;Jordan_1;Jordan_4;NO;4;36.3;Fondo complejo: objeto aislado con GrabCut
+images (15).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (15).jpg;Jordan_1;Adidas_Campus;NO;3;25.7;Fondo complejo: objeto aislado con GrabCut
+images (16).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (16).jpg;Jordan_1;Jordan_4;NO;1;32.1;Foto completa: sin recorte del objeto
+images (17).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (17).jpg;Jordan_1;Jordan_4;NO;4;26.2;Fondo complejo: objeto aislado con GrabCut
+images (18).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (18).jpg;Jordan_1;Jordan_4;NO;1;41.1;Fondo complejo: objeto aislado con GrabCut
+images (2).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (2).jpg;Jordan_1;Jordan_4;NO;5;31.8;Foto completa: sin recorte del objeto
+images (20).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (20).jpg;Jordan_1;Jordan_4;NO;1;44.7;Fondo complejo: objeto aislado con GrabCut
+images (22).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (22).jpg;Jordan_1;Adidas_Campus;NO;3;32.1;Fondo complejo: objeto aislado con GrabCut
+images (28).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (28).jpg;Jordan_1;Adidas_Samba;NO;1;38.6;Fondo uniforme suave: objeto aislado
+images (3).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (3).jpg;Jordan_1;Jordan_4;NO;2;34.0;Fondo complejo: objeto aislado con GrabCut
+images (5).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (5).jpg;Jordan_1;Adidas_Campus;NO;1;37.7;Fondo complejo: objeto aislado con GrabCut
+images (53).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (53).jpg;Jordan_1;Jordan_4;NO;2;36.9;Fondo complejo: objeto aislado con GrabCut
+images (7).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images (7).jpg;Jordan_1;Air_force_one;NO;1;57.4;Fondo complejo: objeto aislado con GrabCut
+images.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_1\images.jpg;Jordan_1;Air_force_one;NO;1;38.4;Fondo complejo: objeto aislado con GrabCut
+descarga.webp;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\descarga.webp;Jordan_4;Jordan_1;NO;2;49.4;Fondo uniforme suave: objeto aislado
+foto_008.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_008.jpg;Jordan_4;Jordan_1;NO;2;44.6;Fondo complejo: objeto aislado con GrabCut
+foto_010.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_010.jpg;Jordan_4;Adidas_Campus;NO;1;56.8;Fondo uniforme: objeto aislado
+foto_018.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_018.jpg;Jordan_4;Adidas_Samba;NO;3;50.8;Fondo uniforme: objeto aislado
+foto_035.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_035.jpg;Jordan_4;Air_force_one;NO;5;48.6;Fondo complejo: objeto aislado con GrabCut
+foto_038.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_038.jpg;Jordan_4;Adidas_Campus;NO;2;39.8;Fondo complejo: objeto aislado con GrabCut
+foto_041.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\foto_041.jpg;Jordan_4;Air_force_one;NO;2;37.3;Fondo complejo: objeto aislado con GrabCut
+images (13).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (13).jpg;Jordan_4;Jordan_1;NO;4;53.4;Fondo uniforme: objeto aislado
+images (35).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (35).jpg;Jordan_4;Adidas_Samba;NO;3;74.6;Fondo uniforme: objeto aislado
+images (4).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (4).jpg;Jordan_4;Adidas_Campus;NO;5;38.9;Fondo complejo: objeto aislado con GrabCut
+images (44).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (44).jpg;Jordan_4;Jordan_1;NO;5;38.4;Fondo complejo: objeto aislado con GrabCut
+images (45).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (45).jpg;Jordan_4;Adidas_Campus;NO;1;71.1;Fondo complejo: objeto aislado con GrabCut
+images (50).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (50).jpg;Jordan_4;Adidas_Campus;NO;1;36.9;Fondo complejo: objeto aislado con GrabCut
+images (51).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (51).jpg;Jordan_4;Air_force_one;NO;3;60.5;Fondo complejo: objeto aislado con GrabCut
+images (6).jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images (6).jpg;Jordan_4;Adidas_Campus;NO;2;50.1;Fondo complejo: objeto aislado con GrabCut
+images.jpg;C:\Users\luise\OneDrive\Escritorio\KIKCS NUEVO\KicksMind_V3\DATA-SET\Jordan_4\images.jpg;Jordan_4;Air_force_one;NO;3;51.9;Fondo complejo: objeto aislado con GrabCut

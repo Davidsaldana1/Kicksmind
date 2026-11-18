@@ -1,0 +1,307 @@
+{
+  "metodo": "Validación cruzada estratificada por grupos, 5 particiones compartidas",
+  "advertencia": "Evaluación exploratoria; modelo elegido sobre las mismas particiones. Necesita prueba externa independiente.",
+  "imagenes_validas": 499,
+  "grupos_similares": 452,
+  "grupos_con_etiquetas_diferentes": 6,
+  "archivos_omitidos": 9,
+  "categorias": {
+    "Adidas_Campus": 97,
+    "Adidas_Samba": 100,
+    "Air_force_one": 103,
+    "Jordan_1": 102,
+    "Jordan_4": 97
+  },
+  "preprocesamiento_v3": {
+    "Fondo uniforme suave: objeto aislado": 7,
+    "Fondo uniforme: objeto aislado": 276,
+    "Fondo complejo: objeto aislado con GrabCut": 196,
+    "Foto completa: sin recorte del objeto": 20
+  },
+  "modelo_elegido": "SVM RBF V3",
+  "extractor_elegido": "v3",
+  "resultados": {
+    "Regresión logística V2 (base)": {
+      "extractor": "v2",
+      "accuracy": 0.625250501002004,
+      "f1_macro": 0.621470488074986,
+      "labels": [
+        "Adidas_Campus",
+        "Adidas_Samba",
+        "Air_force_one",
+        "Jordan_1",
+        "Jordan_4"
+      ],
+      "confusion_matrix": [
+        [
+          39,
+          27,
+          8,
+          13,
+          10
+        ],
+        [
+          18,
+          69,
+          5,
+          4,
+          4
+        ],
+        [
+          11,
+          3,
+          66,
+          8,
+          15
+        ],
+        [
+          10,
+          5,
+          3,
+          77,
+          7
+        ],
+        [
+          11,
+          11,
+          8,
+          6,
+          61
+        ]
+      ],
+      "classification_report": {
+        "Adidas_Campus": {
+          "precision": 0.43820224719101125,
+          "recall": 0.4020618556701031,
+          "f1-score": 0.41935483870967744,
+          "support": 97.0
+        },
+        "Adidas_Samba": {
+          "precision": 0.6,
+          "recall": 0.69,
+          "f1-score": 0.641860465116279,
+          "support": 100.0
+        },
+        "Air_force_one": {
+          "precision": 0.7333333333333333,
+          "recall": 0.6407766990291263,
+          "f1-score": 0.6839378238341969,
+          "support": 103.0
+        },
+        "Jordan_1": {
+          "precision": 0.7129629629629629,
+          "recall": 0.7549019607843137,
+          "f1-score": 0.7333333333333333,
+          "support": 102.0
+        },
+        "Jordan_4": {
+          "precision": 0.6288659793814433,
+          "recall": 0.6288659793814433,
+          "f1-score": 0.6288659793814433,
+          "support": 97.0
+        },
+        "accuracy": 0.625250501002004,
+        "macro avg": {
+          "precision": 0.6226729045737501,
+          "recall": 0.6233212989729973,
+          "f1-score": 0.621470488074986,
+          "support": 499.0
+        },
+        "weighted avg": {
+          "precision": 0.624771890847863,
+          "recall": 0.625250501002004,
+          "f1-score": 0.6234650535498776,
+          "support": 499.0
+        }
+      }
+    },
+    "Regresión logística V3": {
+      "extractor": "v3",
+      "accuracy": 0.7014028056112225,
+      "f1_macro": 0.6992725206024439,
+      "labels": [
+        "Adidas_Campus",
+        "Adidas_Samba",
+        "Air_force_one",
+        "Jordan_1",
+        "Jordan_4"
+      ],
+      "confusion_matrix": [
+        [
+          58,
+          15,
+          9,
+          7,
+          8
+        ],
+        [
+          8,
+          77,
+          2,
+          2,
+          11
+        ],
+        [
+          8,
+          3,
+          73,
+          6,
+          13
+        ],
+        [
+          1,
+          3,
+          5,
+          82,
+          11
+        ],
+        [
+          8,
+          9,
+          12,
+          8,
+          60
+        ]
+      ],
+      "classification_report": {
+        "Adidas_Campus": {
+          "precision": 0.6987951807228916,
+          "recall": 0.5979381443298969,
+          "f1-score": 0.6444444444444445,
+          "support": 97.0
+        },
+        "Adidas_Samba": {
+          "precision": 0.719626168224299,
+          "recall": 0.77,
+          "f1-score": 0.7439613526570048,
+          "support": 100.0
+        },
+        "Air_force_one": {
+          "precision": 0.7227722772277227,
+          "recall": 0.7087378640776699,
+          "f1-score": 0.7156862745098039,
+          "support": 103.0
+        },
+        "Jordan_1": {
+          "precision": 0.780952380952381,
+          "recall": 0.803921568627451,
+          "f1-score": 0.7922705314009661,
+          "support": 102.0
+        },
+        "Jordan_4": {
+          "precision": 0.5825242718446602,
+          "recall": 0.6185567010309279,
+          "f1-score": 0.6,
+          "support": 97.0
+        },
+        "accuracy": 0.7014028056112225,
+        "macro avg": {
+          "precision": 0.7009340557943908,
+          "recall": 0.6998308556131891,
+          "f1-score": 0.6992725206024439,
+          "support": 499.0
+        },
+        "weighted avg": {
+          "precision": 0.7021108038739093,
+          "recall": 0.7014028056112225,
+          "f1-score": 0.7006703944974347,
+          "support": 499.0
+        }
+      }
+    },
+    "SVM RBF V3": {
+      "extractor": "v3",
+      "accuracy": 0.6973947895791583,
+      "f1_macro": 0.7029441932066242,
+      "labels": [
+        "Adidas_Campus",
+        "Adidas_Samba",
+        "Air_force_one",
+        "Jordan_1",
+        "Jordan_4"
+      ],
+      "confusion_matrix": [
+        [
+          56,
+          15,
+          3,
+          2,
+          21
+        ],
+        [
+          10,
+          70,
+          1,
+          0,
+          19
+        ],
+        [
+          8,
+          3,
+          70,
+          2,
+          20
+        ],
+        [
+          4,
+          2,
+          4,
+          71,
+          21
+        ],
+        [
+          6,
+          2,
+          4,
+          4,
+          81
+        ]
+      ],
+      "classification_report": {
+        "Adidas_Campus": {
+          "precision": 0.6666666666666666,
+          "recall": 0.5773195876288659,
+          "f1-score": 0.6187845303867403,
+          "support": 97.0
+        },
+        "Adidas_Samba": {
+          "precision": 0.7608695652173914,
+          "recall": 0.7,
+          "f1-score": 0.7291666666666666,
+          "support": 100.0
+        },
+        "Air_force_one": {
+          "precision": 0.8536585365853658,
+          "recall": 0.6796116504854369,
+          "f1-score": 0.7567567567567568,
+          "support": 103.0
+        },
+        "Jordan_1": {
+          "precision": 0.8987341772151899,
+          "recall": 0.696078431372549,
+          "f1-score": 0.7845303867403315,
+          "support": 102.0
+        },
+        "Jordan_4": {
+          "precision": 0.5,
+          "recall": 0.8350515463917526,
+          "f1-score": 0.6254826254826255,
+          "support": 97.0
+        },
+        "accuracy": 0.6973947895791583,
+        "macro avg": {
+          "precision": 0.7359857891369227,
+          "recall": 0.6976122431757209,
+          "f1-score": 0.7029441932066242,
+          "support": 499.0
+        },
+        "weighted avg": {
+          "precision": 0.739181039143583,
+          "recall": 0.6973947895791583,
+          "f1-score": 0.7045663851291681,
+          "support": 499.0
+        }
+      }
+    }
+  }
+}
